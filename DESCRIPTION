@@ -16,3 +16,5 @@ Imports:
 Depends: 
     R (>= 2.10)
 LazyData: true
+URL: https://github.com/betopadovani/pacotedaaula2
+BugReports: https://github.com/betopadovani/pacotedaaula2/issues
